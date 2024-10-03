@@ -644,17 +644,17 @@ void rateItem() {
         printf("\n\t3. Average");
         printf("\n\t4. Good");
         printf("\n\t5. Excellent\n");
-        printf(LIGHT_CYAN "\n\nYour choice: " RESET);
+        printf(LIGHT_CYAN "\n\tYour choice: " RESET);
         scanf("%d", &rating);
 
         if (rating < 1 || rating > 5) {
-            printf("\nInvalid rating. Please enter a number between 1 and 5.\n");
+            printf("\n\tInvalid rating. Please enter a number between 1 and 5.\n");
             fclose(tempFile);
             continue;
         }
 
         fprintf(tempFile, "%d %s %d\n", itemId, loggedInCustomerUsername, rating);  
-        printf("%s\nThank you for your rating!%s\n", LIGHT_GREEN, RESET);
+        printf("%s\n\tThank you for your rating!%s\n", LIGHT_GREEN, RESET);
 
         fclose(tempFile);
 
@@ -662,7 +662,7 @@ void rateItem() {
         remove("rating.txt");
         rename("temp.txt", "rating.txt");
 
-        printf(LIGHT_YELLOW "\nWould you like to rate another item? (y/n): " RESET);
+        printf(LIGHT_YELLOW "\n\tWould you like to rate another item? (y/n): " RESET);
         char choice;
         scanf(" %c", &choice);
         if (choice != 'y' && choice != 'Y') {
