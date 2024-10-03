@@ -6,7 +6,7 @@ We welcome contributions from the community to help improve and expand this proj
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using:
    ```bash
-   git clone [your-forked-repository-url]
+   git clone https://github.com/Sayed-47/Cafe-de-BUP-a-Cafeteria-Management-Portal.git
    ```
 
 3. **Create a Branch**: Create a new branch for your feature or bug fix:
