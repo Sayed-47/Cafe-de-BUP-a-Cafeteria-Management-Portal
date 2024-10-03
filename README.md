@@ -42,10 +42,9 @@ This C project aims to streamline the management of multiple cafeterias within a
 ![image](https://github.com/user-attachments/assets/45422653-93ce-4750-bb38-ee5218ae77d7)
 
 ### Rate an Item
-![image](https://github.com/user-attachments/assets/b0fe6a68-df11-47e2-9b83-72767cc6ab35)
+![image](https://github.com/user-attachments/assets/1b769359-e4f6-4fd0-bb2d-c6b0ae46313d)
 
 ### Cafe Details
-![image](https://github.com/user-attachments/assets/589b0c20-7504-4e17-911f-a8ec508d4297)
 
 ## Contributing
 
