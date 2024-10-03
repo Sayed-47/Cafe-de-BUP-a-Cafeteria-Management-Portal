@@ -37,9 +37,15 @@ This C project aims to streamline the management of multiple cafeterias within a
 
 ### Place Order
 ![image](https://github.com/user-attachments/assets/5317dcf6-a9c1-4828-bae4-54f9252895e9)
+
 #### Digital Invoice
 ![image](https://github.com/user-attachments/assets/45422653-93ce-4750-bb38-ee5218ae77d7)
 
+### Rate an Item
+![image](https://github.com/user-attachments/assets/b0fe6a68-df11-47e2-9b83-72767cc6ab35)
+
+### Cafe Details
+![image](https://github.com/user-attachments/assets/589b0c20-7504-4e17-911f-a8ec508d4297)
 
 ## Contributing
 
@@ -53,7 +59,6 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@Sayed-47](https://www.github.com/Sayed-47)
-
 
 ## License
 
