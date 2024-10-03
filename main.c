@@ -619,7 +619,7 @@ void rateItem() {
         }
 
         
-        printf("\n\tYou selected - %s%s%s\n", YELLOW, itemName, RESET);
+        printf("\n\tYou selected - %s%s%s\n", BOLD_YELLOW, itemName, RESET);
         printf(LIGHT_YELLOW "\n\t%-10s %-15s %-10s %-10s %-10s %-15s %-10s\n" RESET, "ID", "Name", "Quantity", "Price", "Type", "Cafe", "Rating");
         printf(LIGHT_YELLOW "\t--------------------------------------------------------------------------------------\n" RESET);
         printf("\t%-10d %-15s %-10d %-10.2f %-10s %-15s %-10d\n", itemId, itemName, quantity, price, types[type], cafes[cafe], currentRating);
