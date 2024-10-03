@@ -45,7 +45,7 @@ This C project aims to streamline the management of multiple cafeterias within a
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `CONTRIBUTING.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
