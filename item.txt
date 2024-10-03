@@ -1,0 +1,6 @@
+1 Pizza 7 60.00 2 1
+2 Pizza 20 55.00 2 2
+3 Burger 6 65.00 2 5
+4 Shingara 42 15.00 2 1
+5 Tehari 38 80.00 1 5
+6 Rice 50 10.00 1 3
