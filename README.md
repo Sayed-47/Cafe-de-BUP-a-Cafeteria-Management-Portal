@@ -59,4 +59,4 @@ Please adhere to this project's `code of conduct`.
 
 [MIT](https://github.com/Sayed-47/Cafe-de-BUP-a-Cafeteria-Management-Portal/blob/main/LICENSE)
 
-This project is made under MIT License
+This project is made under the standard MIT License
