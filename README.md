@@ -11,8 +11,8 @@ This C project aims to streamline the management of multiple cafeterias within a
 - Real-Time Availability: Students can check the availability of food items in real time.
 - Review System: Students can read and leave reviews for food items, helping others make informed choices.
 
-
 ## Screenshots
+
 
 ### Homepage
 ![Homepage](https://github.com/user-attachments/assets/f3e380a1-c796-42d8-9821-f234be35d9ee)
@@ -37,7 +37,7 @@ This C project aims to streamline the management of multiple cafeterias within a
 ### Place Order
 ![image](https://github.com/user-attachments/assets/5317dcf6-a9c1-4828-bae4-54f9252895e9)
 
-#### Digital Invoice
+### Digital Invoice
 ![image](https://github.com/user-attachments/assets/45422653-93ce-4750-bb38-ee5218ae77d7)
 
 ### Rate an Item
@@ -48,6 +48,9 @@ This C project aims to streamline the management of multiple cafeterias within a
 
 ### Change Password
 ![image](https://github.com/user-attachments/assets/3cc43d78-e293-45b3-8629-bb41ad1dc4b0)
+
+## Admin Login Portal
+![image](https://github.com/user-attachments/assets/0634a952-917d-4979-8aba-85917ba72138)
 
 ### Admin Menu
 ![image](https://github.com/user-attachments/assets/be9fdc77-27c6-4c0e-af46-f959af3e3225)
@@ -66,6 +69,7 @@ This C project aims to streamline the management of multiple cafeterias within a
 
 ### Some other options are the same as the Customer Menu
 
+
 ## Contributing
 
 Contributions are always welcome!
@@ -78,6 +82,7 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@Sayed-47](https://www.github.com/Sayed-47)
+
 
 ## License
 
