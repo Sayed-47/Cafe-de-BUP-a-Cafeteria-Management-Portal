@@ -360,9 +360,9 @@ void cafeDetails() {
     }
     
     printf("\n\t====================================================================================================\n");
-    printf("\t %s                                        Cafe Details                                            %s \n", BOLD_YELLOW, RESET);
+    printf("\t %s                                        Cafe Details                                            %s \n", LIGHT_YELLOW, RESET);
     printf("\t====================================================================================================\n");
-    printf("\t| %s%-8s%s | %s%-20s%s | %s%-13s%s | %s%-13s%s | %s%-12s%s | %s%-3s%s | %s%-9s%s |\n", YELLOW, "Cafe ID", RESET, BOLD_YELLOW, "Cafe Name", RESET, YELLOW, "Opening Time", RESET, YELLOW, "Closing Time", RESET, YELLOW, "Staff Count", RESET, YELLOW, "AC", RESET, YELLOW, "Capacity", RESET);
+    printf("\t| %s%-8s%s | %s%-20s%s | %s%-13s%s | %s%-13s%s | %s%-12s%s | %s%-3s%s | %s%-9s%s |\n", LIGHT_YELLOW, "Cafe ID", RESET, LIGHT_YELLOW, "Cafe Name", RESET, LIGHT_YELLOW, "Opening Time", RESET, LIGHT_YELLOW, "Closing Time", RESET, LIGHT_YELLOW, "Staff Count", RESET, LIGHT_YELLOW, "AC", RESET, LIGHT_YELLOW, "Capacity", RESET);
     printf("\t----------------------------------------------------------------------------------------------------\n");
     
     while (fscanf(file, "%d %[^\n]", &cafeId, cafeName) == 2) {
